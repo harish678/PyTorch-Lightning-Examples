@@ -1,2 +1,3 @@
 # PyTorch-Lightning-Examples
-Models implemented in PyTorch Lightning
+
+Popular Papers implemented in PyTorch Lightning
